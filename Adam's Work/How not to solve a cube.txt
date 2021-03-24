@@ -1,0 +1,23 @@
+<!doctype html>
+<html>
+<head>
+
+<title>Rubik's Cubes</title>
+<style>
+body 
+{
+	background-color: #888523;
+	color: blue;
+	font-family: Cambria, arial, Times, serif;
+}
+</style>
+</head>
+<h1> How not to solve a Rubik's Cube </h1>
+<body>
+<h3>Step One</h3>
+<h5>Don't buy a cube</h5>
+<h3>Step Two</h3>
+<h5>If you see a cube close your eyes and run around screaming until everything stops</h5>
+<h3>Steo Three</h3>
+<h5>If you see someone solving a cube SMACK IT OUT THERE HAND and repeat step two</h5>
+</body>
