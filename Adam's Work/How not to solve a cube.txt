@@ -21,3 +21,4 @@ body
 <h3>Steo Three</h3>
 <h5>If you see someone solving a cube SMACK IT OUT THERE HAND and repeat step two</h5>
 </body>
+</html>
